@@ -1,1 +1,15 @@
+cfx-mxc-townbank
+cfx-mxc-hayesauto
+cfx-mxc-moteldreamview
+cfx-mxc-motelsouthseas
 cfx-mxc-pitstop
+cfx-mxc-smoking
+cfx-mxc-spacerestaurant
+utility_vendingmachines
+cfx-mxc-townbank-editable
+cfx-mxc-hayesauto-editable
+cfx-mxc-moteldreamview-editable
+cfx-mxc-motelsouthseas-editable
+cfx-mxc-pitstop-editable
+cfx-mxc-smoking-editable
+cfx-mxc-spacerestaurant-editable
