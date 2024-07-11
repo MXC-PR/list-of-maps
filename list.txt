@@ -6,10 +6,3 @@ cfx-mxc-pitstop
 cfx-mxc-smoking
 cfx-mxc-spacerestaurant
 utility_vendingmachines
-cfx-mxc-townbank-premium
-cfx-mxc-hayesauto-premium
-cfx-mxc-moteldreamview-premium
-cfx-mxc-motelsouthseas-premium
-cfx-mxc-pitstop-premium
-cfx-mxc-smoking-premium
-cfx-mxc-spacerestaurant-premium
