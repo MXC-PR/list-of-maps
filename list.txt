@@ -4,5 +4,11 @@ cfx-mxc-moteldreamview
 cfx-mxc-motelsouthseas
 cfx-mxc-pitstop
 cfx-mxc-smoking
+cfx-mxc-guncluboffice
+cfx-mxc-realestateagency
+cfx-mxc-drivein
+cfx-mxc-pizzathis
 cfx-mxc-spacerestaurant
 utility_vendingmachines
+utility_kitchen
+utility_bank
