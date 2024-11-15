@@ -1,4 +1,5 @@
 cfx-mxc-townbank
+cfx-mxc-jewelry
 cfx-mxc-hayesauto
 cfx-mxc-moteldreamview
 cfx-mxc-motelsouthseas
